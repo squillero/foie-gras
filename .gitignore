@@ -1,5 +1,11 @@
+# Generated graphs
+out
+
 # Huge datafile
-graphsdb
+graphs*/
+
+# Visual Studio Code
+settings.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
